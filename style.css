@@ -105,6 +105,14 @@
   color: white;
   
 }
+.centered1{
+  position: absolute;  
+  bottom: 10%;
+  left: 50%;
+  transform: translate(-50%,-10%);  
+  color: white;
+  
+}
 .text-primary{
   font-size: 30px;
 }
